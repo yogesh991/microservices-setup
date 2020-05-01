@@ -1,0 +1,10 @@
+insert into exchange_value( id, currency_From, currency_To, conversion_multiple, port) values (1001,'USD','INR', 75,0);
+insert into exchange_value( id, currency_From, currency_To, conversion_multiple, port) values (1002,'USD','YRP', 3242,0);
+insert into exchange_value( id, currency_From, currency_To, conversion_multiple, port) values (1003,'USD','SGP', 32,0);
+insert into exchange_value( id, currency_From, currency_To, conversion_multiple, port) values (1004,'USD','UKD', 2312,0);
+insert into exchange_value( id, currency_From, currency_To, conversion_multiple, port) values (1005,'USD','AUD', 111,0);
+insert into exchange_value( id, currency_From, currency_To, conversion_multiple, port) values (1006,'INR','INR', 1,0);
+insert into exchange_value( id, currency_From, currency_To, conversion_multiple, port) values (1007,'INR','RYD', 175,0);
+insert into exchange_value( id, currency_From, currency_To, conversion_multiple, port) values (1008,'INR','NPR', 765,0);
+insert into exchange_value( id, currency_From, currency_To, conversion_multiple, port) values (1009,'INR','PKR', 7005,0);
+insert into exchange_value( id, currency_From, currency_To, conversion_multiple, port) values (1010,'INR','GKP', 750,0);
